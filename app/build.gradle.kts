@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.cookiewookie.clockly"
+    namespace = "com.wookiepookie.clockly"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.cookiewookie.clockly"
+        applicationId = "com.wookiepookie.clockly"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

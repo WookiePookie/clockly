@@ -1,4 +1,4 @@
-package com.cookiewookie.clockly.application
+package com.wookiepookie.clockly.application
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

@@ -14,7 +14,7 @@
         tools:targetApi="31">
 
         <activity
-            android:name=".application.MainActivity"
+            android:name="com.wookiepookie.clockly.application.MainActivity"
             android:exported="true"
             android:theme="@style/Theme.Clockly">
             <intent-filter>
